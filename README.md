@@ -1,4 +1,4 @@
-# cw73rRud
+Meme Generator
 
 Quick start:
 
